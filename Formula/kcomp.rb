@@ -1,8 +1,8 @@
 class Kcomp < Formula
   desc "High-performance compression utility with adaptive algorithm selection"
   homepage "https://github.com/khaledalam/kcomp"
-  url "https://github.com/khaledalam/kcomp/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "2bafacaca07b67ca632a341964ac1792e5e75f698c27b9ee72bcd3aa45037358"
+  url "https://github.com/khaledalam/kcomp/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "56195089bfce1c2356e44a9c85b7d11dd3515f4f16bc88c4d6fb78e00adad8be"
   license "MIT"
 
   depends_on "cmake" => :build
